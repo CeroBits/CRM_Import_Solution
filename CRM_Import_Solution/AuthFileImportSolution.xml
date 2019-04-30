@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<Authentication>
+  <crmUrl>CRM URL</crmUrl>
+  <organization>ORGANIZATION</organization>
+</Authentication>

@@ -1,0 +1,17 @@
+D:\Users\c05646\Documents\Visual Studio 2017\Projects\CRM_Import_Solution\CRM_Import_Solution\bin\Debug\CRM_Import_Solution.dll
+D:\Users\c05646\Documents\Visual Studio 2017\Projects\CRM_Import_Solution\CRM_Import_Solution\bin\Debug\CRM_Import_Solution.pdb
+D:\Users\c05646\Documents\Visual Studio 2017\Projects\CRM_Import_Solution\CRM_Import_Solution\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\Users\c05646\Documents\Visual Studio 2017\Projects\CRM_Import_Solution\CRM_Import_Solution\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Users\c05646\Documents\Visual Studio 2017\Projects\CRM_Import_Solution\CRM_Import_Solution\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+D:\Users\c05646\Documents\Visual Studio 2017\Projects\CRM_Import_Solution\CRM_Import_Solution\bin\Debug\System.Management.Automation.dll
+D:\Users\c05646\Documents\Visual Studio 2017\Projects\CRM_Import_Solution\CRM_Import_Solution\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Users\c05646\Documents\Visual Studio 2017\Projects\CRM_Import_Solution\CRM_Import_Solution\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+D:\Users\c05646\Documents\Visual Studio 2017\Projects\CRM_Import_Solution\CRM_Import_Solution\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+D:\Users\c05646\Documents\Visual Studio 2017\Projects\CRM_Import_Solution\CRM_Import_Solution\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\Users\c05646\Documents\Visual Studio 2017\Projects\CRM_Import_Solution\CRM_Import_Solution\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\Users\c05646\Documents\Visual Studio 2017\Projects\CRM_Import_Solution\CRM_Import_Solution\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+D:\Users\c05646\Documents\Visual Studio 2017\Projects\CRM_Import_Solution\CRM_Import_Solution\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+D:\Users\c05646\Documents\Visual Studio 2017\Projects\CRM_Import_Solution\CRM_Import_Solution\obj\Debug\CRM_Import_Solution.csproj.CoreCompileInputs.cache
+D:\Users\c05646\Documents\Visual Studio 2017\Projects\CRM_Import_Solution\CRM_Import_Solution\obj\Debug\CRM_Import_Solution.csproj.CopyComplete
+D:\Users\c05646\Documents\Visual Studio 2017\Projects\CRM_Import_Solution\CRM_Import_Solution\obj\Debug\CRM_Import_Solution.dll
+D:\Users\c05646\Documents\Visual Studio 2017\Projects\CRM_Import_Solution\CRM_Import_Solution\obj\Debug\CRM_Import_Solution.pdb
